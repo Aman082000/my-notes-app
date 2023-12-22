@@ -49,3 +49,6 @@ Author Aman - GitHub
 Thank you for using My Notes App!
 
 Home Page
+
+![FrontPic](https://github.com/Aman082000/my-notes-app/assets/99380736/0ce5bcc8-fe9f-438c-91ad-1c0ec7ab2f3e)
+

@@ -7,7 +7,7 @@ Installation
 
 2.Install mongoose package to connect to MongoDB npm i mongoose
 
-3.Install express npm express
+3.Install express : npm install express
 
 4.Install nodemon npm i -D nodemon
 
